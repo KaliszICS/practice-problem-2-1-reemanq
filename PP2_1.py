@@ -10,7 +10,7 @@ def q1():
 
 
 def q2(): 
-  name = input("Input a name: ")
+  name = str(input("Input a name: "))
   if name == "Kalisz":
     print("teacher")
   else:
